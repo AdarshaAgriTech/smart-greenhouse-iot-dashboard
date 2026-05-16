@@ -3,6 +3,9 @@
 Real-time Smart Greenhouse Monitoring and Intelligent Control System using MQTT, Streamlit, Plotly and Python.
 
 ---
+## 📸 Dashboard Preview
+
+![Smart Greenhouse Dashboard](Greenhouse_dashboard.png)
 
 # Features
 
