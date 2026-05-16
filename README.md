@@ -78,6 +78,9 @@ Actuator Status Topics
        ↓
 Streamlit Dashboard
 ```
+## 📐 System Architecture Diagram
+
+![System Architecture](System_Architecture.png)
 ---
 
 #  Project Structure
